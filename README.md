@@ -1,2 +1,2 @@
 # Serial-Communication
-This repository contains simplified RTL designs of the UART and I2C serial communication protocols
+This repository contains simplified RTL design of a UART receiver and transmitter and an associated testbench
